@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/ic_pause_white_24dp">
+        <rotate
+            android:fromDegrees="0"
+            android:toDegrees="180"
+            android:pivotX="50%"
+            android:pivotY="50%" />
+        <scale
+            android:scaleHeight="0%"
+            android:scaleWidth="0%" />
+    </item>
+    <item android:drawable="@mipmap/ic_play_arrow_white_24dp">
+        <rotate
+            android:fromDegrees="180"
+            android:toDegrees="0"
+            android:pivotX="50%"
+            android:pivotY="50%" />
+        <scale
+            android:scaleHeight="100%"
+            android:scaleWidth="100%" />
+    </item>
+</transition>

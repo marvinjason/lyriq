@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lyriq</string>
+    <string name="api_key">API_KEY_HERE</string>
+</resources>
