@@ -1,6 +1,6 @@
 # Lyriq
 
-An Android music player that automatically fetches and displays the lyrics for a track if available. This application uses the [Musixmatch Developer API](https://developer.musixmatch.com/) for the lyrics database source.
+An Android music player that automatically fetches and displays the lyrics for a track if available. This application uses the [Musixmatch Developer API](https://developer.musixmatch.com/) as the lyrics database source.
 
 <img src="images/01.png" width="250" alt="Image 1"> <img src="images/02.png" width="250" alt="Image 2">
 
